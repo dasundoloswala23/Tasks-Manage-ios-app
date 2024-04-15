@@ -1,9 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/sHz1bMKn)
-Please go under edit and edit this file as needed for your project.  There is no seperate documentation needed.
-
 # Project Name - Dola Events
-# Student Id - IT20190002
-# Student Name - T.D.M.A.Doloswala
+
 
 #### 01. Brief Description of Project - This app is designed for maintaining an event to-do list that helps users keep track of the events they need to complete. Users can add events to their list and easily edit, delete, mark as completed, or view the list based on different categories such as complete, incomplete, overdue, or all events separately. Some to-dos are private, so this app has a Face ID unlock system to ensure privacy
 #### 02. Users of the System - Users can add events, edit them if they want to, delete them once the task is complete, and also mark them as completed.
