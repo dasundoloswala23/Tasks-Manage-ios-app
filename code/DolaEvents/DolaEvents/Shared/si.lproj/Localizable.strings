@@ -1,0 +1,30 @@
+"eventlisttitle-string" = "ලැයිස්තු";
+"event-string" = "උසස්";
+
+// සංස්කරණය කිරීමට උත්සාහ කරන්න
+
+"eventname-string" = "උසස් නම";
+"description-string" = "විස්තරය";
+"date-string" = "දිනය";
+"schedule-string" = "කාල සටහන";
+"completed-string" = "සම්පූර්ණ";
+"save-string" = "සුරකින්න";
+
+// ත්‍රියාකාරකම් තිබේවිට
+
+"appname" = "දොලා ස්වයංක්‍රීය";
+"authenticate-string" = "සත්‍යාපනය කිරීම";
+"locked-string" = "අඟල්";
+"unlocked-string" = "අඟල් නොකරන";
+"reasons-string" = "මෙම් ආරක්ෂක හේතුවක් සඳහා විධියක්";
+"problem-string" = "ගැටලුවක් තිබේ!";
+"biometrics-string" = "දුරකථනයේ බයිමුතුකම් නොමැත";
+"add-string" = "එකතු කරන්න";
+"save-string" = "සුරකින්න";
+
+/// මෙනුව
+
+"nonCompleted-string" = "සම්පූර්ණ නොවීම්";
+"all-string" = "සියලු";
+"events-string" = "ලැයිස්තු";
+"overdue-string" = "උපාංගයෙන් පිහිටුවා";

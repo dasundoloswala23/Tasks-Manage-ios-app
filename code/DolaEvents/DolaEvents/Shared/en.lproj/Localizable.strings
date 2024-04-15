@@ -1,0 +1,36 @@
+"eventlisttitle-string" = " Event List";
+"event-string" = "Event";
+
+
+//edit add event
+
+"eventname-string" = " Event Name";
+"description-string" = " Description";
+"date-string" = " Due Date";
+"schedule-string" = "Schedule Time";
+"completed-string" = "Completed";
+"save-string" = "Save";
+
+
+
+// splash screen
+
+"appname" = "Dola Events";
+"authenticate-string" = " Authenticate";
+"locked-string" = "Locked";
+"unlocked-string" = "Unlocked";
+"reasons-string" = "This is for security reasons";
+"problem-string" = "There was a problem!";
+"biometrics-string" = "Phone does not have Biometrics";
+
+"add-string" = "Add";
+
+"save-string" = "Save";
+
+///menue
+"nonCompleted-string" = "Non Completed";
+"all-string" = "All";
+"events-string" = "Events";
+"overdue-string" = "Overdue";
+
+

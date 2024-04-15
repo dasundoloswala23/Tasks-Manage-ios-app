@@ -1,0 +1,34 @@
+"eventlisttitle-string" = "イベント一覧";
+"event-string" = "イベント";
+
+
+//edit add event
+
+"eventname-string" = "イベント名";
+"description-string" = "イベント名";
+"date-string" = "期日";
+"schedule-string" = "予定時刻";
+"completed-string" = "予定時刻";
+"save-string" = "保存";
+
+
+
+// splash screen
+
+"appname" = "Dola Events";
+"authenticate-string" = " 認証する";
+"locked-string" = "ロックされています";
+"unlocked-string" = "ロック解除済み";
+"reasons-string" = "これはセキュリティ上の理由からです";
+"problem-string" = "問題が発生しました!";
+"biometrics-string" = "携帯電話には生体認証がありません";
+
+
+"add-string" = "追加";
+"save-string" = "保存";
+
+///menue
+"nonCompleted-string" = "未完了";
+"all-string" = "すべて";
+"events-string" = "イベント";
+"overdue-string" = "期限切れ";
